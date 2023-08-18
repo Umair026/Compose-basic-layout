@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Compose_Level_1</string>
+    <string name="title_activity_compose_article">ComposeArticle</string>
+    <string name="title_activity_task_manager_ui">TaskManagerUI</string>
+    <string name="title_activity_birthday_card">BirthdayCard</string>
+    <string name="title_activity_compose_quadrant">ComposeQuadrant</string>
+    <string name="title_activity_business_card">BusinessCard</string>
+</resources>
